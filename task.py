@@ -1,9 +1,3 @@
-#projekt_1.py: první projekt do Engeto Online Python Akademie
-
-#author: Olina Savčuková
-#email: olinkasavcuk@gmail.com
-#discord: Olina Savčuková
-
 from task_template import TEXTS
 
 users = {"bob": "123",
